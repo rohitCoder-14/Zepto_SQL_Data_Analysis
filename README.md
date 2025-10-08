@@ -14,8 +14,6 @@ Key Features:
 
 - Removed products with invalid or zero MRP.
 
-- Converted prices from paise to rupees for accuracy.
-
 - Identified null and duplicate records for quality checks.
 
 2. Exploratory Analysis:
